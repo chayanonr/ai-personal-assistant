@@ -1,0 +1,19 @@
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Logs and system files
+*.log
+.DS_Store
+
+# IDE settings
+.vscode/
+.idea/
+*.iml
+
+# Pip cache
+pip-wheel-metadata/
