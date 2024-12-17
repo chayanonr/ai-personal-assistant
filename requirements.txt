@@ -1,0 +1,4 @@
+requests
+schedule
+pyttsx3
+SpeechRecognition
